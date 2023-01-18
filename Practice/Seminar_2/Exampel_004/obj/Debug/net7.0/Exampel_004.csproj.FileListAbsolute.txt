@@ -1,0 +1,15 @@
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/bin/Debug/net7.0/Exampel_004
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/bin/Debug/net7.0/Exampel_004.deps.json
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/bin/Debug/net7.0/Exampel_004.runtimeconfig.json
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/bin/Debug/net7.0/Exampel_004.dll
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/bin/Debug/net7.0/Exampel_004.pdb
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.csproj.AssemblyReference.cache
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.AssemblyInfoInputs.cache
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.AssemblyInfo.cs
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.csproj.CoreCompileInputs.cache
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.dll
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/refint/Exampel_004.dll
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.pdb
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/Exampel_004.genruntimeconfig.cache
+/Users/avasilev/Desktop/Alex/GB/C#/Practice/Seminar_2/Exampel_004/obj/Debug/net7.0/ref/Exampel_004.dll
